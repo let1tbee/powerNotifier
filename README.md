@@ -8,7 +8,7 @@ Features:
 3. Could be turned on and off by sending corresponding command in telegram bot chat.
 
 Hardware:
-This project was created for ESP01 and Arduino Uno as a programmator. But the project could be done with any ESP modification.
+This project was created for ESP01 and Arduino Uno as a programmer. But the project could be done with any ESP modification.
 
 How to setup:
 1. Create a bot with 2 commands /turn_on and /turn_off. Write down Bot's token
