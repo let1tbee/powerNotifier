@@ -13,7 +13,7 @@ This project was created for ESP01 and Arduino Uno as a programmator. But the pr
 How to setup:
 1. Create a bot with 2 commands /turn_on and /turn_off. Write down Bot's token
 2. Find out your telegram ID with IDBot
-3. Make correcponding changes into an arduino code and upload it to the ESP
+3. Make correcponding changes into an arduino code and upload it to the ESP. Please note that you need special setup for ESP and FastBot library for this project.
 4. Connect a power supply to ESP when the power is off and it's done.
 5. (Optional) Could be tested with phone hotspot to check it's behaviour.
 
