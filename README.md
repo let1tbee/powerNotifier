@@ -5,7 +5,7 @@ Project is developed based on ESP8266 microcontroller and telegram chat-bot.
 Features:
 1. ESP basically connects to the Wi-Fi network once the power is up.
 2. It sends message "Power on" every 15 minutes.
-3. Could be turned on and off by sending corresponding command in telegram bor chat.
+3. Could be turned on and off by sending corresponding command in telegram bot chat.
 
 Hardware:
 This project was created for ESP01 and Arduino Uno as a programmator. But the project could be done with any ESP modification.
